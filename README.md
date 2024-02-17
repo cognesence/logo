@@ -5,7 +5,7 @@ The logo for the Cognesence organisation.
 
 ## Overview
 
-Welcome to the official repository for the Cognesence logo! Our logo is available in various sizes and both square and standard formats, ensuring versatility for different uses. From small icons at 16x16 pixels to larger displays at 512x512 pixels, you can find the perfect fit for your needs.
+Welcome to the official repository for the Cognesence logo!
 
 ## Directory Structure
 
